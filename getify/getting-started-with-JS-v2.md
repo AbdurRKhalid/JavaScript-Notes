@@ -88,3 +88,11 @@ The action of implicitly or explicitly converting one data type into other data 
 2. _===_ is applied when the Coercion is Same.
 
 **_When We know the Type then We Should Apply == instead of ===_**
+
+### Function Expression
+
+The function assigned to other variable is called the Function Expression.
+
+    var sum = function add(num1, num2){
+        return num1 + num2;
+    }
