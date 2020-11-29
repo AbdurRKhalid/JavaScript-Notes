@@ -18,3 +18,9 @@ Operators that only needs one operand to be applied on.
 The Operators that Requires the Two Operators to Be Applied on.
 
     var age_days = age * 365; //Here '*' is the Binary Operator.
+
+### Interpolated String
+
+The string that contains the variables is called the Interpolated String.
+
+    console.log(`This is an interpolated ${string}.`);
