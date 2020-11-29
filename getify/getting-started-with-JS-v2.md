@@ -12,3 +12,9 @@ The operators in programming world that can perform multiple tasks. For example,
 Operators that only needs one operand to be applied on.
 
     !true //Here the '!' is a Uniary operator.
+
+### Binary Operators
+
+The Operators that Requires the Two Operators to Be Applied on.
+
+    var age_days = age * 365; //Here '*' is the Binary Operator.
