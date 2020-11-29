@@ -74,3 +74,8 @@ The following does not require a _new_ keyword:
 ## Coercion
 
 The action of implicitly or explicitly converting one data type into other data type is called coercion in the JavaScript.
+
+| Falsy                                                                         | Truthy                                                                |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Values that Will become **false** when we will convert them into the booleans | Values that Will Become **true** when we will them intot the booleans |
+| "", 0,-0, null, NaN, false, Undefined                                         | Everything Other Than Falsy is Truthy                                 |
