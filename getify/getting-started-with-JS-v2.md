@@ -59,3 +59,14 @@ There are following types exists in the JavaScript:
 - Represents _"Not a Number"_.
 - Occurred when mathamatical operation is
   performed on a non-mathamatical operands.
+
+### new
+
+- Used to created the new instances.
+- Starts with capital letter.
+
+The following does not require a _new_ keyword:
+
+1. String()
+2. Number()
+3. Boolean()
