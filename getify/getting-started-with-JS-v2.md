@@ -24,3 +24,11 @@ The Operators that Requires the Two Operators to Be Applied on.
 The string that contains the variables is called the Interpolated String.
 
     console.log(`This is an interpolated ${string}.`);
+
+## Three Main Pillers of JavaScript
+
+The following three concepts are the main pillers of the JavaScript and they are very important to know and to work in JavaScript as well.
+
+1. Types/Coercin.
+2. Scope/Closures.
+3. this/Prototypes.
