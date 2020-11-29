@@ -147,3 +147,7 @@ this keyword describes the usage of variable of value with respect to the contex
     }
 
 Here as we can see that ask() method is not receiving any parameter named teacher, but in context we can access that.
+
+## Class
+
+Classes in JavaScript has the Same Definition as that of other programming classes.
