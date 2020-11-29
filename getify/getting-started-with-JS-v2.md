@@ -114,3 +114,16 @@ The _let_ keywords allows the following things:
 - Allows the Encapsulation.
 - Allows the Block Scoping.
 - We cannot accessthe _let_ variables outside the block.
+
+## Closure
+
+Closure occurs when a function remembers the variables outside of the it, even if you pass that function somewhere else.
+**_"Functions are First Class Variables!"_**
+
+    function ask(question){
+    	setTimeout(function waitASec() {
+    		console.log(question);
+    	}, 500)
+    }
+
+Now in the above function, the waitASec() function will be get called after 500ms so the question variable is remembed by the function.
