@@ -32,3 +32,24 @@ The following three concepts are the main pillers of the JavaScript and they are
 1. Types/Coercin.
 2. Scope/Closures.
 3. this/Prototypes.
+
+### Types
+
+There are following types exists in the JavaScript:
+
+- Primitive Types.
+- Converting Types.
+- Checking Types.
+
+#### Primitive Types
+
+- Undefined
+- number
+- string
+- boolean
+- object
+- symbol
+- **null (not Primitive but behaves like)**
+- **function (subtype of object)**
+- **Array(subtype of object)**
+  _In JavaScript the variables does not have types but values have types._
