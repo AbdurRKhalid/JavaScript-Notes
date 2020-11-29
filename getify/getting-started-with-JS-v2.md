@@ -53,3 +53,9 @@ There are following types exists in the JavaScript:
 - **function (subtype of object)**
 - **Array(subtype of object)**
   _In JavaScript the variables does not have types but values have types._
+
+### NaN
+
+- Represents _"Not a Number"_.
+- Occurred when mathamatical operation is
+  performed on a non-mathamatical operands.
