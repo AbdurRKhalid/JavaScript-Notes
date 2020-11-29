@@ -29,7 +29,7 @@ The string that contains the variables is called the Interpolated String.
 
 The following three concepts are the main pillers of the JavaScript and they are very important to know and to work in JavaScript as well.
 
-1. Types/Coercin.
+1. Types/Coercion.
 2. Scope/Closures.
 3. this/Prototypes.
 
