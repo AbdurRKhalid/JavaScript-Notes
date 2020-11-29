@@ -70,3 +70,7 @@ The following does not require a _new_ keyword:
 1. String()
 2. Number()
 3. Boolean()
+
+## Coercion
+
+The action of implicitly or explicitly converting one data type into other data type is called coercion in the JavaScript.
