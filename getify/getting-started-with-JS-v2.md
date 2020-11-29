@@ -6,3 +6,9 @@ The operators in programming world that can perform multiple tasks. For example,
 
     var sum = 5 + 10;
     var combinedString = "This is a Dog " + "and his name is Zoroo.";
+
+### Uniary Operators
+
+Operators that only needs one operand to be applied on.
+
+    !true //Here the '!' is a Uniary operator.
