@@ -127,3 +127,23 @@ Closure occurs when a function remembers the variables outside of the it, even i
     }
 
 Now in the above function, the waitASec() function will be get called after 500ms so the question variable is remembed by the function.
+
+## Prototypes
+
+**Have to Read About it Still.**
+
+## this
+
+this keyword describes the usage of variable of value with respect to the context in which the variable is being used.
+
+    function ask(question){
+        console.log(this.teacher, question);
+    }
+    function otherClass(){
+        var context = {
+    	    teacher: 'James'
+        };
+        ask.call(context, 'What is Programming!');
+    }
+
+Here as we can see that ask() method is not receiving any parameter named teacher, but in context we can access that.
