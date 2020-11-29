@@ -106,3 +106,11 @@ The function assigned to other variable is called the Function Expression.
 (function printMessage() {
 console.log("Hello World!");
 } () )
+
+### let
+
+The _let_ keywords allows the following things:
+
+- Allows the Encapsulation.
+- Allows the Block Scoping.
+- We cannot accessthe _let_ variables outside the block.
