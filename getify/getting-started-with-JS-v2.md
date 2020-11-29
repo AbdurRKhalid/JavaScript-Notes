@@ -96,3 +96,13 @@ The function assigned to other variable is called the Function Expression.
     var sum = function add(num1, num2){
         return num1 + num2;
     }
+
+### IIFE
+
+- Immediately Invoked Function Expression.
+- Functions that are declared
+  and used at the same time.
+
+(function printMessage() {
+console.log("Hello World!");
+} () )
