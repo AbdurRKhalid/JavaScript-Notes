@@ -79,3 +79,12 @@ The action of implicitly or explicitly converting one data type into other data 
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Values that Will become **false** when we will convert them into the booleans | Values that Will Become **true** when we will them intot the booleans |
 | "", 0,-0, null, NaN, false, Undefined                                         | Everything Other Than Falsy is Truthy                                 |
+
+## Equality
+
+**==** vs **===**
+
+1. _==_ is applied when the Coercion is Different.
+2. _===_ is applied when the Coercion is Same.
+
+**_When We know the Type then We Should Apply == instead of ===_**
